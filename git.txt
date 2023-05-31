@@ -5,5 +5,3 @@ add a new feature
 added another line
 
 add another line
-
-trying to create a conflict
