@@ -6,4 +6,4 @@ added another line
 
 add another line
 
-adding some content
+trying to create a conflict
